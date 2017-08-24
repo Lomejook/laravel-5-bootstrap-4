@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel-bootstrap-4",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "lomejook/laravel-bootstrap-4",
+    "description": "The Laravel Framework with Bootstrap 4.",
+    "keywords": ["framework", "laravel", "bootstrap", "bootstrap4"],
     "license": "MIT",
     "type": "project",
     "require": {
