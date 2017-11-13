@@ -15,6 +15,8 @@ window.$ = $;
 global.Tether = require('tether');
 window.Tether = global.Tether;
 
+window.Popper = require('popper.js').default;
+
 require('bootstrap');
 
 /**
