@@ -6,8 +6,6 @@
     "type": "project",
     "require": {
         "php": ">=7.0.0",
-        "artesaos/seotools": "^0.10.0",
-        "greggilbert/recaptcha": "^2.2",
         "laravel/framework": "5.5.*",
         "laravel/tinker": "~1.0"
     },

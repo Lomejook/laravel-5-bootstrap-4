@@ -11,6 +11,4 @@
 |
 */
 
-Route::group(['domain' => env('DOMAIN_ROUTE')], function () {
-	Route::get('/', 'HomeController@index');
-});
+Route::get('/', 'HomeController@index');

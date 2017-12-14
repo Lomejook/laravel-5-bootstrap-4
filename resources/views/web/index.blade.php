@@ -1,6 +1,7 @@
 @extends('web.layouts.main')
 
 @section('content')
+
 	<div class="container my-5">
 		<div class="jumbotron">
 			<h1 class="display-3">Hello, world!</h1>
